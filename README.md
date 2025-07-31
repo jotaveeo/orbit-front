@@ -1,4 +1,6 @@
-# Guia de Implementação do Frontend Orbit
+# Orbit - Frontend
+
+Projeto que surgiu no evento O-HACKA-TA-ON 2025, iniciativa entre a parceria entre a Universidade de Fortaleza - instituição mantida pela Fundação Edson Queiroz - e o grupo M. Dias Branco, um dos mantenedores do Unifor Hub. O objetivo foi impulsionar o ecossistema de inovação e capacitar novas gerações de talentos.
 
 Este documento fornece instruções detalhadas para implementação e deploy do frontend Orbit, com melhorias de resiliência e experiência do usuário.
 
